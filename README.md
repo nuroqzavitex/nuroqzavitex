@@ -65,10 +65,8 @@
 <br>
 
 <div data-importer="ai-techs" align="left">
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/langchain" height="40" alt="langchain logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/langgraph" height="40" alt="langgraph logo"  />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" height="40" />
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white" height="40" />
   <img width="12" />
   <img src="https://github.com/langfuse.png" height="40" alt="langfuse logo"  />
   <img width="12" />
