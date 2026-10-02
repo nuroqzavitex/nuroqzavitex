@@ -63,23 +63,24 @@
 <br>
 
 <div data-importer="ai-techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/langchain/langchain-original.svg" height="40" alt="langchain logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/langgraph/langgraph-original.svg" height="40" alt="langgraph logo" />
+  <img src="https://cdn.simpleicons.org/langchain" height="40" alt="langchain logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/langfuse/default.svg" height="40" alt="langfuse logo" />
+  <img src="https://cdn.simpleicons.org/langgraph" height="40" alt="langgraph logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/mlflow" height="40" alt="mlflow logo" />
+  <img src="https://github.com/langfuse.png" height="40" alt="langfuse logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/scikitlearn" height="40" alt="scikit-learn logo" />
+  <img src="https://cdn.simpleicons.org/mlflow" height="40" alt="mlflow logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/huggingface" height="40" alt="hugging face logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="40" alt="scikit-learn logo"  />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/vibrantlabsai/ragas/main/docs/_static/imgs/logo.png" height="40" alt="ragas logo" />
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="40" alt="hugging face logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/githubactions" height="40" alt="github actions logo" />
+  <img src="https://github.com/explodinggradients.png" height="40" alt="ragas logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/qdrant" height="40" alt="qdrant logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="40" alt="github actions logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/qdrant" height="40" alt="qdrant logo"  />
 </div>
 
 
