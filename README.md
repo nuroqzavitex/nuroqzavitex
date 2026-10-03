@@ -92,12 +92,16 @@
 <h3 data-importer="text" align="left">🔥   My Stats :</h3>
 
 
-
-<!-- <div data-importer="stats" align="center">
+<!-- 
+<div data-importer="stats" align="center">
   <img src="https://streak-stats.demolab.com?user=nuroqzavitex&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div> -->
 
-<div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nuroqzavitex/nuroqzavitex/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nuroqzavitex/nuroqzavitex/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/nuroqzavitex/nuroqzavitex/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
+
 
