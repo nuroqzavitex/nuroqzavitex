@@ -99,12 +99,8 @@
 
 <br><br>
 
-<div data-importer="pacman" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nuroqzavitex/nuroqzavitex/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nuroqzavitex/nuroqzavitex/pacman-output/pacman-contribution-graph.svg?game=pacman">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/nuroqzavitex/nuroqzavitex/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  </picture>
+<div data-importer="snake" align="center">
+  <img data-importer="snake" src="https://raw.githubusercontent.com/nuroqzavitex/nuroqzavitex/snake-output/snake.svg" alt="Snake animation" />
 </div>
 
 
