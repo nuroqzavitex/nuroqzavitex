@@ -63,19 +63,21 @@
 <br>
 
 <div data-importer="ai-techs" align="left">
-  <img src="image/langchain-logo.png" height="40" alt="langchain logo"  />
+  <img src="image/langchain-logo-transparent-small.png" height="40" alt="langchain logo"  />
   <img width="12" />
-  <img src="image/langgraph-logo.png" height="40" alt="langgraph logo"  />
+  <img src="image/langgraph-logo-transparent-small.png" height="40" alt="langgraph logo"  />
   <img width="12" />
   <img src="image/llamaindex.png" height="40" alt="llamaindex logo"  />
   <img width="12" />
   <img src="image/langfuse-icon-logo-png_seeklogo-611660.png" height="40" alt="langfuse logo"  />
   <img width="12" />
-  <img src="image/mlflow-logo.png" height="40" alt="mlflow logo"  />
+  <img src="image/mlflow-logo-transparent-dark-small.png" height="40" alt="mlflow logo"  />
+  <img width="12" />
+  <img src="image/Scikit learn Logo Vector.png" height="40" alt="scikit-learn logo"  />
   <img width="12" />
   <img src="image/huggingface.png" height="40" alt="hugging face logo"  />
   <img width="12" />
-  <img src="image/ragas_logo.png" height="40" alt="ragas logo"  />
+  <img src="image/ragas-logo-cropped-small.png" height="40" alt="ragas logo"  />
   <img width="12" />
   <img src="image/qdrant-brandmark-red.png" height="40" alt="qdrant logo"  />
   <img width="12" />
