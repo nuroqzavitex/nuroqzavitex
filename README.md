@@ -52,7 +52,7 @@
   <img width="12" />
   <img src="image/pandas-original.svg" height="40" alt="pandas logo"  />
   <img width="12" />
-  <img src="image/Matplotlib Logo Vector.svg .png.svg" height="40" alt="pandas logo"  />
+  <img src="image/matplotlib-logo.png" height="40" alt="matplotlib logo"  />
   <img width="12" />
   <img src="image/postgresql-original.svg" height="40" alt="postgresql logo"  />
   <img width="12" />
