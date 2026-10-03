@@ -97,10 +97,4 @@
   <img src="https://streak-stats.demolab.com?user=nuroqzavitex&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
-<br><br>
-
-<div data-importer="snake" align="center">
-  <img data-importer="snake" src="https://raw.githubusercontent.com/nuroqzavitex/nuroqzavitex/snake-output/snake.svg" alt="Snake animation" />
-</div>
-
 
