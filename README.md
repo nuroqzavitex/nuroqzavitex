@@ -47,7 +47,7 @@
   <img width="12" />
   <img src="image/neo4j-original.svg" height="40" alt="neo4j logo"  />
   <img width="12" />
-  <img src="image/nginx-original.svg" height="40" alt="nginx logo"  />
+  <img src="image/nginx-logo.png" height="40" alt="nginx logo"  />
   <img width="12" />
   <img src="image/numpy-original.svg" height="40" alt="numpy logo"  />
   <img width="12" />
