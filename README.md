@@ -25,7 +25,7 @@
 
 
 
-<p data-importer="text" align="left">I'm a Mathematics & Informatics student at Hanoi University of Science and Technology (HUST) with a strong passion for AI/ML. I currently focus on exploring RAG, Agentic AI, and LLM applications. I love turning ideas into useful products, building practical AI solutions, and constantly learning new technologies. I'm always eager to grow, collaborate, and tackle real-world problems.</p>
+<p data-importer="text" align="left">I'm Nhu Van Hung, a Mathematics & Informatics student at Hanoi University of Science and Technology (HUST) with a strong passion for AI/ML. I currently focus on exploring RAG, Agentic AI, and LLM applications. I love turning ideas into useful products, building practical AI solutions, and constantly learning new technologies. I'm always eager to grow, collaborate, and tackle real-world problems.</p>
 
 
 
